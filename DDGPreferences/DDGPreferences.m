@@ -52,7 +52,7 @@
 
 #import <objc/runtime.h>
 
-#define CLASS_DEBUG 1
+// #define CLASS_DEBUG 1
 #import "DDGMacros.h"
 
 NSString *const kDirtyKey = @"dirty";
